@@ -1,0 +1,38 @@
+23:03:45.241 [main] INFO  c.n.l.e.ManagementTransactions - [addMoney] - TRACE END
+23:03:45.250 [main] DEBUG c.n.l.e.ManagementTransactions - [launch] - 1
+23:03:45.250 [main] INFO  c.n.l.e.ManagementTransactions - [showMenu] - TRACE INIT
+23:03:45.251 [main] INFO  c.n.l.e.ManagementTransactions - [showMenu] - TRACE END
+23:03:45.251 [main] INFO  c.n.l.e.ManagementTransactions - [ask4Number] - TRACE INIT
+23:11:35.730 [main] INFO  com.nttdata.logback_t1.App - [main] - TRACE INIT
+23:11:35.734 [main] DEBUG com.nttdata.logback_t1.App - [main] - Client [balance=0.0, idClient=0, name=Alejandro, surname=Tellez, bDay=1997-04-08]
+23:11:35.735 [main] INFO  c.n.l.e.ManagementTransactions - [launch] - TRACE INIT
+23:11:35.746 [main] INFO  c.n.l.e.ManagementTransactions - [showMenu] - TRACE INIT
+23:11:35.746 [main] INFO  c.n.l.e.ManagementTransactions - [showMenu] - TRACE END
+23:11:35.746 [main] INFO  c.n.l.e.ManagementTransactions - [ask4Number] - TRACE INIT
+23:11:50.333 [main] INFO  c.n.l.e.ManagementTransactions - [ask4Number] - TRACE END
+23:11:50.334 [main] INFO  c.n.l.e.ManagementTransactions - [addMoney] - TRACE INIT
+23:11:50.334 [main] INFO  c.n.l.e.ManagementTransactions - [ask4Number] - TRACE INIT
+23:11:50.908 [main] INFO  c.n.l.e.ManagementTransactions - [ask4Number] - TRACE END
+23:11:50.908 [main] INFO  c.n.l.e.ManagementTransactions - [askYesNo] - TRACE INIT
+23:11:50.908 [main] INFO  c.n.l.e.ManagementTransactions - [askBooleanOption] - TRACE INIT
+23:11:54.267 [main] INFO  c.n.l.e.ManagementTransactions - [askBooleanOption] - TRACE END
+23:11:54.267 [main] INFO  c.n.l.e.ManagementTransactions - [askYesNo] - TRACE END
+23:11:54.267 [main] INFO  c.n.l.e.ManagementTransactions - [showBalance] - TRACE INIT
+23:11:54.267 [main] INFO  c.n.l.e.ManagementTransactions - [showBalance] - TRACE END
+23:11:54.267 [main] INFO  c.n.l.e.ManagementTransactions - [addMoney] - TRACE END
+23:11:54.268 [main] DEBUG c.n.l.e.ManagementTransactions - [launch] - 1
+23:11:54.268 [main] INFO  c.n.l.e.ManagementTransactions - [showMenu] - TRACE INIT
+23:11:54.268 [main] INFO  c.n.l.e.ManagementTransactions - [showMenu] - TRACE END
+23:11:54.268 [main] INFO  c.n.l.e.ManagementTransactions - [ask4Number] - TRACE INIT
+23:11:57.310 [main] ERROR c.n.l.e.ManagementTransactions - [ask4Number] - Error cause by java.util.InputMismatchException
+23:12:00.755 [main] INFO  c.n.l.e.ManagementTransactions - [ask4Number] - TRACE END
+23:12:00.755 [main] INFO  c.n.l.e.ManagementTransactions - [showBalance] - TRACE INIT
+23:12:00.755 [main] INFO  c.n.l.e.ManagementTransactions - [showBalance] - TRACE END
+23:12:00.755 [main] DEBUG c.n.l.e.ManagementTransactions - [launch] - 3
+23:12:00.755 [main] INFO  c.n.l.e.ManagementTransactions - [showMenu] - TRACE INIT
+23:12:00.755 [main] INFO  c.n.l.e.ManagementTransactions - [showMenu] - TRACE END
+23:12:00.756 [main] INFO  c.n.l.e.ManagementTransactions - [ask4Number] - TRACE INIT
+23:12:03.264 [main] INFO  c.n.l.e.ManagementTransactions - [ask4Number] - TRACE END
+23:12:03.264 [main] DEBUG c.n.l.e.ManagementTransactions - [launch] - 9
+23:12:03.264 [main] INFO  c.n.l.e.ManagementTransactions - [launch] - TRACE END
+23:12:03.264 [main] INFO  com.nttdata.logback_t1.App - [main] - TRACE END
