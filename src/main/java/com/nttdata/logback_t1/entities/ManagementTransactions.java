@@ -139,7 +139,7 @@ public class ManagementTransactions {
 	 * 
 	 * Ask for a int between two values
 	 * 
-	 * @return
+	 * @return int
 	 */
 	@SuppressWarnings("resource")
 	private static int ask4Number(int start, int end, String message) {
