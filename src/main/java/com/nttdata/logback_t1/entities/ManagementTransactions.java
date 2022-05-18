@@ -93,7 +93,7 @@ public class ManagementTransactions {
 	 * 
 	 * Ask for a particular boolean option between [Y] or [N]
 	 * 
-	 * @return
+	 * @return boolean
 	 */
 	private static boolean askYesNo(String question) {
 
@@ -110,7 +110,7 @@ public class ManagementTransactions {
 	 * 
 	 * Ask for one of two options (option positive, option negative)
 	 * 
-	 * @return
+	 * @return boolean
 	 */
 	@SuppressWarnings("resource")
 	private static boolean askBooleanOption(String question, String positive, String negative) {
