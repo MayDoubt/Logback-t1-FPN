@@ -132,6 +132,11 @@ public class Client {
 		return idClient == other.idClient;
 	}
 	
+	/**
+	 * Ask if he's of legal age
+	 * 
+	 * @return boolean
+	 */
 	public boolean isAdult() {
 		LocalDate today = LocalDate.now();
 		return (today.getYear() - bDay.getYear()) > 18;
